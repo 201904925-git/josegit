@@ -1,4 +1,4 @@
-function sumar(num1, num2) {
-    return num1 + num2;
+function restar(num1, num2) {
+    return num1 - num2;
 }
-console.log(sumar(5, 3)); // Output: 8
+console.log(restar(5, 3)); // Output: 2
